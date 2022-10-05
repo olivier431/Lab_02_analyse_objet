@@ -146,6 +146,6 @@ public class Program
             {
                 Console.WriteLine("INVALID");
             }
-        } while (choix == "5");
+        } while (choix != "5");
     }
 }
